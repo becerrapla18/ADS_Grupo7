@@ -132,3 +132,36 @@ El software que será implementado cumple con los requerimientos para la elabora
 |Tarjeta de credito|Medio de pago |E      |P   |
 |producto   |Bien tangible, puesto a la venta por la empresa|E      |F   |
 
+## 3. CAPTURA DE REQUERIMIENTOS
+
+### 3.1 Fuentes de obtención de requerimientos
+La fuente obtención fueron del Farmacéuticos, Gerente general fueron las personas que fueron entrevistadas para entender cómo funcionaba cada proceso y la labor que realizaba cada uno por separado.
+
+### 3.2 Informe de entrevistas o material técnico
+**REQUERIMIENTOS FUNCIONALES**
+* Debe permitirme generar planilla para los diferentes tipos de trabajadores.
+* Debe mostrar un balance general de las ventas realizadas.
+* Debe mostrar mediante estadísticas la ganancia semanal, mensual y anula de la empresa 
+* Debe tener diferentes tipos de usuarios.
+* Debe tener sistema de seguridad en contraseñas para el acceso.
+* Debe generar reportes útiles.
+* Debe tener modos de validación de datos
+
+**REQUERIMIENTOS NO FUNCIONALES**
+* rendimiento
+* disponibilidad
+* seguridad
+* accesibilidad
+* usabilidad
+* estabilidad
+* portabilidad
+* costo
+* operatividad
+
+**INTERFACES**
+* Hardware: El sistema se debe implementar sobre las compras de productos.
+* Software: La aplicación deberá funcionar sobre SQL server.
+
+
+### 3.3	Matriz de Actividades y Requerimientos
+![m5](m5.png)
